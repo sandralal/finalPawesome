@@ -15,7 +15,7 @@ $username=$_SESSION['username'];
                             <span class="heading" style="float: left;">PaweSome</span>
                         </div>
                             <div class="donation">
-                            <a href="#" class="donation">Donate</a>
+                            <a href="donation.php" class="donation">Donate</a>
                             </div>
         </div>     
         <div class="logo-profile">
