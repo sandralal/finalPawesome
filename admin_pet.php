@@ -14,7 +14,7 @@
 
 		if(!$res)
         {
-            echo"not connected";
+            echo"not connected!!!";
         }
         
 	
